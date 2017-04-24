@@ -1,2 +1,0 @@
-# yiiblog
-yii2blog
